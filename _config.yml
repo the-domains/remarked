@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.317434
+  lightness: 0.500822
+  rhythmicContrast: 0.506578
+  saturation: 0.504934
+cta: {}
+layout_spectrum: 0.830592
+name: remarked
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.8813469756830623
